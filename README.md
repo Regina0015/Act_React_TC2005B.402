@@ -4,5 +4,4 @@ Aplicación web hecha con React y Node.js que permite el inicio de sesión de us
 
 ## Demo del proyecto
 
-[![Aquí se muestra el funcionamiento del sistema:](https://img.youtube.com/vi/s6dWfSF7bbM/0.jpg)](https://youtu.be/WqTYdm5YOWs)
-
+[![Demo del proyecto](https://img.youtube.com/vi/WqTYdm5YOWs/0.jpg)](https://youtu.be/WqTYdm5YOWs)
